@@ -1,5 +1,4 @@
 import Image, { StaticImageData } from "next/image"
-import Icons from "./Components/Icons/Icons"
 import { FaQuoteLeft, FaStar } from "react-icons/fa"
 
 interface CardProps{

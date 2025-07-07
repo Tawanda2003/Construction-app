@@ -6,7 +6,6 @@ import modeller from '@/public/top-modeller.png'
 import yelp from '@/public/yelp-love.png'
 
 import { FaPhoneAlt,FaEnvelope,FaMapMarkerAlt,FaAngleRight } from 'react-icons/fa'
-import Footer from '@/Footer'
 
 const Sumary = () => {
   return (

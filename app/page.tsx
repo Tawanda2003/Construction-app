@@ -1,5 +1,5 @@
 
-import MainCard from "./Components/Services/page"
+
 import Banner from "./Banner"
 import About from "./Components/About/page"
 import Clients from "./Components/Clients/page"
